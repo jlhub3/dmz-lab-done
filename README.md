@@ -17,5 +17,5 @@ El propósito de este laboratorio es diseñar y configurar una infraestructura d
 * Servicios: HTTP/HTTPS, DNS y Email.
 
 ## Autor
-* [Tu Nombre/Usuario de GitHub]
+* Julio Fraga
 * Estudiante de 4Geeks Academy
